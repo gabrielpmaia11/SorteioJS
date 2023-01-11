@@ -1,4 +1,5 @@
 teste.js
 
 
-arquivo para sorteio do 
+arquivo para sorteio dos testes para javascript
+
