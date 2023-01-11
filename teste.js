@@ -8,4 +8,4 @@ Entrando atributos para saidas das
 Colocando readme 
 
 
-Para jusar o app entre no app de entreada da pasta
+Para jusar o app entre no app de entrada  da pasta
